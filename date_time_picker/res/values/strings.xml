@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DateTimePicker</string>
+    <string name="welcome">welcome</string>
+    <string name="click_here_for_date">click here for date</string>
+</resources>
