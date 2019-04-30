@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomGradle</string>
+    <string name="error_button">error button</string>
+    <string name="success_button">success button</string>
+    <string name="info_button">info button</string>
+    <string name="warning_button">warning button</string>
+    <string name="image_button">image button</string>
+</resources>
