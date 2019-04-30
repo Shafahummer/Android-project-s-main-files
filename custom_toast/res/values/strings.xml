@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomToast</string>
+    <string name="happy_birthday_btn">happy birthday</string>
+    <string name="happy_birthday_text">Happy birthday</string>
+    <string name="click_me">click me</string>
+    <string name="hey_android">Hey android</string>
+</resources>
