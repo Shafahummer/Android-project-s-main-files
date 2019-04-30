@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoComplete</string>
+    <string name="select_country">select country</string>
+
+</resources>
