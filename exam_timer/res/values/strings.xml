@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExamTimer</string>
+    <string name="time_left">Time Left</string>
+    <string name="_0">0</string>
+    <string name="not_doneyet">Not Done Yet!</string>
+</resources>
